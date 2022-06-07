@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.lab5.healthMeasure.app-mergeDebugResources-33:/layout/fragment_exercise.xml",
+        "source": "com.lab5.healthMeasure.app-main-36:/layout/fragment_exercise.xml"
+    },
+    {
+        "merged": "com.lab5.healthMeasure.app-mergeDebugResources-33:/layout/fragment_prepare.xml",
+        "source": "com.lab5.healthMeasure.app-main-36:/layout/fragment_prepare.xml"
+    },
+    {
+        "merged": "com.lab5.healthMeasure.app-mergeDebugResources-33:/layout/fragment_not_available.xml",
+        "source": "com.lab5.healthMeasure.app-main-36:/layout/fragment_not_available.xml"
+    },
+    {
+        "merged": "com.lab5.healthMeasure.app-mergeDebugResources-33:/layout/fragment_startup.xml",
+        "source": "com.lab5.healthMeasure.app-main-36:/layout/fragment_startup.xml"
+    },
+    {
+        "merged": "com.lab5.healthMeasure.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.lab5.healthMeasure.app-main-36:/layout/activity_main.xml"
+    }
+]
